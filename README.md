@@ -1,1 +1,3 @@
 # sample
+
+print('Hello world!')
